@@ -11,4 +11,6 @@
 * git add .
 * git rm --cached [nombre de archivo]
 * git commit -m "Aqui los comentarios de este commit (version)"
+* git log
 * git show
+* git diff [número del primer commit a comparar] [número del segundo commit a comparar]
