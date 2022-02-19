@@ -1,0 +1,14 @@
+* sudo apt-get install git
+* git init
+* git --version 
+* git config --list
+* git config --list --show-origin 
+* git config --global user.name "Carlos Tineo"
+* git config --global user.email "foxservitec.carlos@gmail.com"
+
+* git status
+* git add [nombre de archivo]
+* git add .
+* git rm --cached [nombre de archivo]
+* git commit -m "Aqui los comentarios de este commit (version)"
+* git show
